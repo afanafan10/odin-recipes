@@ -1,0 +1,10 @@
+/* Styles for index page */
+
+h1, p, ul{
+    text-align: center;
+}
+
+p {
+    color: darkgoldenrod;
+    font-size: 18px;
+}
