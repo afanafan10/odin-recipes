@@ -8,3 +8,19 @@ p {
     color: darkgoldenrod;
     font-size: 18px;
 }
+
+img {
+    height: 200px;
+    width: auto
+}
+
+div {
+    height: 200px;
+    background-color: #f6f5f4;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
