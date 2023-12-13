@@ -36,8 +36,23 @@ ul {
 }
 
 .container {
-    max-width: 900px;
+    max-width: 1000px;
     background-color: white;
     padding: 30px;
     margin: 0 auto;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, .5); 
+}
+
+#food-content {
+    text-align: center;
+}
+
+.food-list {
+    background-color: cadetblue;
+    width: 180px;
+    height: 200px;
+    margin-right: 4px;
+    margin-bottom: 30px;
+    display: inline-block;
+    box-shadow: 1px 1px 4px rgba(0, 0, 0, .5);
 }
